@@ -1,4 +1,4 @@
-# Binary Search Tree
+# Assignment 03. Binary Search Tree
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
